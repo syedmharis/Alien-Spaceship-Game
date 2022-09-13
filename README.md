@@ -1,7 +1,7 @@
 # Alien-Spaceship-Game
 Built a Alien Invasion spaceship game using python PY game library.
 <div align=center margin= auto> 
-  <img src="img.png"  width=80%>
+  <img src="highscore.PNG"  width=80%>
 </div>
 
 # 👽 Alien Invasion
